@@ -2,11 +2,11 @@ require("../../config.js");
 require("../../Core.js");
 
 module.exports = {
-  name: "tagall",
+  name: "منشن جماعي",
   alias: ["tag", "all"],
   desc: "Tag all group member",
   category: "Group",
-  usage: "tagall",
+  usage: "منشن",
   react: "🍁",
   start: async (
     Miku,
